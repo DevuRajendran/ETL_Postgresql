@@ -1,4 +1,4 @@
-# projects
+# ETL-pipeline-kafka
 INTRODUCTION:
 
 This ETL pipeline leverages a combination of robust technologies—API, Python, Kafka, Spark, and PostgreSQL—to handle high-throughput data streams and ensure seamless data extraction, transformation, and storage.Data extraction and streaming to processing and storage, making it an integral solution for handling large-scale data efficient
